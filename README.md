@@ -258,7 +258,7 @@ The complete YouTube workflow — everything you need to publish a professional 
 
 We don't sell AI tools. We sell transformations.
 
-**[INFINITX AI](https://app.infinitxai.com/)** builds AI systems so you can stay in your zone of genius — closing deals, building relationships, growing your network. The AI handles the rest. $91.5M+ in qualified pipeline. 40+ businesses transformed. Real results, documented publicly.
+**[INFINITX AI](https://app.infinitxai.com/)** builds AI systems so you can stay in your zone of genius — closing deals, building relationships, growing your network. The AI handles the rest. $350M+ deal flow track record. 40+ businesses transformed. Real results, documented publicly.
 
 This repo is us giving away the playbook. Because that's how we operate — value first, always.
 
