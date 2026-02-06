@@ -109,7 +109,7 @@ Or install the **Claude Code extension** in VS Code (search "Claude Code" in Ext
 ### 2. Clone This Repo
 
 ```bash
-git clone https://github.com/enriquemarq/ix-ai-agent-social-media-manager.git
+git clone https://github.com/Trejon-888/ix-ai-agent-social-media-manager.git
 cd ix-ai-agent-social-media-manager
 ```
 
